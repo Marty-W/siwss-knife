@@ -9,7 +9,7 @@
     "date-fns": "^2.15.0",
     "firebase": "^7.17.2",
     "framer-motion": "^2.3.0",
-    "luxon": "^1.24.1",
+    "luxon": "^1.28.1",
     "react": "^16.13.1",
     "react-circular-progressbar": "^2.0.3",
     "react-color": "^2.18.1",
